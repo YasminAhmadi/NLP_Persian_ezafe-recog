@@ -7,4 +7,5 @@ developing machine learning models or algorithms that can automatically identify
 including machine translation, text summarization, information retrieval, and text generation, as accurate ezafe recognition is essential for understanding the grammatical structure and 
 meaning of Persian sentences. To perform Persian Ezafe Recognition, NLP systems typically use techniques such as part-of-speech tagging, syntactic parsing, and morphological analysis 
 to identify and annotate the ezafe markers in text. These systems aim to accurately identify the words that are connected by ezafe and understand the semantic relationships they convey.
+
 The successful development of models for Persian Ezafe Recognition can contribute to improving the overall accuracy and fluency of NLP applications for Persian language processing.
